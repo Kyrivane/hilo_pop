@@ -92,4 +92,4 @@ You can:
 Kyrivane
 
 ## License
-GPL-3.0-only
+GPL-3.0-or-later
