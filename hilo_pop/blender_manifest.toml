@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+
+id = "hilo_pop"
+version = "0.7.1"
+name = "HiLo Pop"
+tagline = "Popup naming for _high / derive _low + pie hotkey"
+maintainer = "Kyrivane"
+type = "add-on"
+
+blender_version_min = "4.5.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
